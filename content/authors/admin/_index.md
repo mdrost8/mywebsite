@@ -45,7 +45,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mdrost8
--icon: linkedin
+-icon: linkedin-in
  icon_pack: fab
  link: https://www.linkedin.com/in/madeleinedrost/
 
