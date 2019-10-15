@@ -14,7 +14,7 @@ role: PhD Student in Human Development and Family Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BS in Human Development and Family Science
-    institution: Ohio State University
+    institution: The Ohio State University
     year: 2018
 
 # Social/Academic Networking
