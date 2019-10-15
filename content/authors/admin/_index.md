@@ -15,7 +15,7 @@ role: PhD Student in HDFS
 # Organizations/Affiliations
 organizations:
 - name: The Ohio State University
-  url: ""
+  url: "https://ehe.osu.edu/human-sciences/hdfs/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include rural demography, aging, and family formation behaviors.
