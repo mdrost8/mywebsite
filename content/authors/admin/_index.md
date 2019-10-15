@@ -17,8 +17,8 @@ organizations:
 - name: The Ohio State University
   url: ""
 
-%# Short bio (displayed in user profile at end of posts)
-%bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include rural demography, aging, and family formation behaviors.
 
 interests:
 - Rural Demography
