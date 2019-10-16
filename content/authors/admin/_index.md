@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Madeleine Drost is a graduate student in Human Development and Family Science at The Ohio State University. She is a Graduate Research Assistant on the AFRI Shale project. This project explores the effects of boom and bust cycles of the shale gas extraction industry on demographic changes. Madeleine is working on her masters thesis exploring the relationship between debt and loneliness in older adults. She uses secondary data sources including the American Community Survey (ACS) and the Health and Retirement Study (HRS). 
+Madeleine Drost is a graduate student in Human Development and Family Science at The Ohio State University. She is a Graduate Research Assistant on the Agriculture and Food Research Initiative (AFRI) Shale project. This project explores the effects of boom and bust cycles of the shale gas extraction industry on demographic changes. Madeleine is working on her masters thesis exploring the relationship between debt and loneliness in older adults. She uses large secondary data sources including the American Community Survey (ACS) and the Health and Retirement Study (HRS). 
