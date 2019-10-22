@@ -97,7 +97,7 @@ address = {street = "1787 Neil Ave", city = "Columbus", region = "OH", postcode 
 coordinates = {latitude = "39.997787", longitude = "-83.015766"}
 
 # Directions for visitors to locate you.
-directions = "Office 166E on first floor"
+directions = "Office 166E on first floor of Campbell Hall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
